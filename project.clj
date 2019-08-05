@@ -24,4 +24,4 @@
 
   :codox {:language :clojurescript
           :output-path "docs/codox"
-          :source-uri "https://github.com/tatut/tuck/blob/master/{filepath}#L{line}"})
+          :source-uri "https://github.com/estebanleonsoto/basic-cljs-proj/blob/master/{filepath}#L{line}"})

@@ -2,6 +2,8 @@
   :description "A simple cljs project with headless chrome based unit testing"
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/clojurescript "1.10.520"]]
+  :license {:name "MIT Licence"
+            :url "https://opensource.org/licenses/MIT"}
   :plugins [[lein-cljsbuild "1.1.7"]
             [lein-doo "0.1.11"]
             [lein-codox "0.10.7"]]
